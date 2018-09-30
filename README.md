@@ -1,2 +1,4 @@
 # Drawing-Platformer
-A 2-D Platformer with the ability to add platforms with the mouse.
+A 2-D Platformer with the ability to add platforms with the mouse.  The player, 1-UP, and end of level sprites were obtained from Spriter Pro.
+
+Initially made following Shaun Spalding's 2-D platformer tutorial (this one in fact:  https://www.youtube.com/playlist?list=PLPRT_JORnIur3eKIaD-IayrdEt8pOor18 ) when I started adding extra stuff and eventually tried to turn into a poor attempt at getting an Adobe scholarship that I didn't properly understand.  There are some standard enemies, some power-ups, a menu, and a few different levels.  For some reason I can't figure out Level 3 doesn't load in properly so while it is in the repository I commented out the line in the .gmx file that attempts to load it into GameMaker.
